@@ -77,17 +77,13 @@ Email Delivery
 
 ![Form](screenshots/form.png)
 
-### AI Generated Content
-
-![Output](screenshots/output.png)
-
 ### Google Sheets Integration
 
-![Sheets](screenshots/sheets.png)
+![Sheets](screenshots/sheet_output.png)
 
 ### Email Delivery
 
-![Email](screenshots/email.png)
+![Email](screenshots/gmail.png)
 
 ---
 
